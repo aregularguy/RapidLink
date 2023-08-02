@@ -4,7 +4,6 @@ Rapid Link is URl shortner Tool which helps in a shortning Lengthy URl,which con
 
 
 
-![MyWallet](app.png)
 
 ## build and start
 execute install
